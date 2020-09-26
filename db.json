@@ -1,0 +1,88 @@
+{
+    "users": [
+        {
+          "id": 1,
+          "nama": "M IQBAL ARFI TUALA",
+          "alamat": "KEDATON",
+          "umur": 26,
+          "nohp": "08992273488"
+        },
+        {
+          "id": 2,
+          "nama": "ADI SUGITO",
+          "alamat": "KEMILING",
+          "umur": 30,
+          "nohp": "082247787377"
+        },
+        {
+          "id": 3,
+          "nama": "MARGIYONO",
+          "alamat": "KEMILING",
+          "umur": 29,
+          "nohp": "081234567855"
+        },
+        {
+          "id": 4,
+          "nama": "M IQBAL ARFI TUALA",
+          "alamat": "KEDATON",
+          "umur": 26,
+          "nohp": "08992273488"
+        },
+        {
+          "id": 5,
+          "nama": "ADI SUGITO",
+          "alamat": "KEMILING",
+          "umur": 30,
+          "nohp": "082247787377"
+        },
+        {
+          "id": 6,
+          "nama": "MARGIYONO",
+          "alamat": "KEMILING",
+          "umur": 29,
+          "nohp": "081234567855"
+        },
+        {
+          "id": 7,
+          "nama": "M IQBAL ARFI TUALA",
+          "alamat": "KEDATON",
+          "umur": 26,
+          "nohp": "08992273488"
+        },
+        {
+          "id": 8,
+          "nama": "ADI SUGITO",
+          "alamat": "KEMILING",
+          "umur": 30,
+          "nohp": "082247787377"
+        },
+        {
+          "id": 9,
+          "nama": "MARGIYONO",
+          "alamat": "KEMILING",
+          "umur": 29,
+          "nohp": "081234567855"
+        },
+        {
+          "id": 10,
+          "nama": "M IQBAL ARFI TUALA",
+          "alamat": "KEDATON",
+          "umur": 26,
+          "nohp": "08992273488"
+        },
+        {
+          "id": 11,
+          "nama": "ADI SUGITO",
+          "alamat": "KEMILING",
+          "umur": 30,
+          "nohp": "082247787377"
+        },
+        {
+          "id": 12,
+          "nama": "MARGIYONO",
+          "alamat": "KEMILING",
+          "umur": 29,
+          "nohp": "081234567855"
+        }
+      ]
+}
